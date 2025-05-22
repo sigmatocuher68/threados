@@ -7,7 +7,7 @@ this is pretty much my first python project.
 open a terminal and enter the following command:  
 ``pip install requests``  
 after that you can open the .py file  
-OR open it through a terminal (python threados.py)  
+OR open it through a terminal (``python threados.py``)  
 target is the domain you want to target (self explanatory)  
 type that in and it will start sending requests!  
 (to stop it just close the terminal)  
